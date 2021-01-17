@@ -1,0 +1,116 @@
+body{
+
+    background-color:orchid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+
+}
+.c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    width: 180vw;
+    
+
+    
+} 
+#container{
+width: 280px;
+height: 370px;
+background-color:whitesmoke;
+padding: 8px 8px 20px 8px;
+margin: 20px auto;
+border-radius: 6px;
+border-top: 5px solid green;
+border-bottom: 5px solid green;
+border-left: 5px solid green;
+border-right: 5px solid green;
+box-shadow:  0px opx 2px red,inset 0px ;
+align-items: center;
+position: relative;
+right: 500px;
+}
+#d{
+ display: block;
+ cursor: pointer;
+ margin: 15px auto;
+ padding: 0 10px;
+height: 50px;
+width: 250px;
+border-radius: 5px;
+border-top: 2px solid #c1c1c1;
+border-bottom: 2px solid  black;
+border-right: 2px solid  #c1c1c1;
+border-left:2px solid  #c1c1c1;
+box-shadow:0px 0px 10px bisque inset;
+   font-size:  35px;
+   color: #666;
+   font-weight: 400px;
+   text-align: right;
+
+
+
+}
+.b {
+
+    display: inline;
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.bdigit {
+     background-color: #434343;
+    display: inline;
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px solid white;
+    color: #FFf;
+    text-shadow: #44006F;
+
+    
+
+}
+#bc{
+ 
+    display: inline;
+    margin: 2px;
+    width: 108px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    
+
+}
+#be{
+
+    display: inline;
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: orange;
+
+}
+
+
+
+
+
+
+
+
+
